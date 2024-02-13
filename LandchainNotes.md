@@ -2,6 +2,24 @@
 
 ### Introduction
 LangChain is a framework for developing applications powered by language models. 
+It helps in creating pllications that:
+- Are Context-aware
+- Reason
+
+Parts of Framework:
+- LangChain Libraries
+- LangChain Templates
+- LangServe
+- LangSmith
+
+![image](https://github.com/k-samarth/Langchain/assets/45495732/e230f01e-275f-4885-bc5f-368cbd45a06f)
+
+### LangChain Libraries
+Constituents:
+- **Components**
+- **Off-the-shelf chains**
+
+Off-the-shelf chains make it easy to get started. Components make it easy to customize existing chains and build new ones.
 
 Large Language Models don't store state. Instead, they try to predict: 
 > P(next token | prompt)
