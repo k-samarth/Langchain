@@ -2,7 +2,7 @@
 
 ### Introduction
 LangChain is a framework for developing applications powered by language models. 
-It helps in creating pllications that:
+It helps in creating applications that:
 - Are Context-aware
 - Reason
 
